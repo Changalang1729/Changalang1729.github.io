@@ -24,7 +24,7 @@ a.image-link {
   font-family: 'DINNextLTPro-Regular';
   font-style: normal;
   font-weight: normal;
-  src: url('/static/fonts/Linotype - DINNextLTPro-Regular.otf') format('opentype');
+  src: url('../fonts/Linotype - DINNextLTPro-Regular.otf') format('opentype');
 }
 
 
